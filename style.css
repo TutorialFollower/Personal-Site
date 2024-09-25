@@ -1,0 +1,141 @@
+body {
+    background: linear-gradient(to top, rgba(245, 240, 194, 0.938) 1%, rgba(217, 203, 160, 0.8) 99%);
+    padding: 0; 
+    margin: 0; 
+    height: 70%; 
+    width: 100%;
+    min-height: 100%; 
+    
+    background-repeat: no-repeat; /* Prevent any repeating */
+    background-color: rgba(245, 240, 194, 0.938);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.ProgramGIF{
+    position: relative;
+    border-radius: 50%;
+    width: 250px;
+    top: 150px;
+    top: -250px;
+}
+
+.Hi{
+    width: 40%;
+    height: auto; 
+    position: relative; 
+    top: -400px;
+    left: -25px;
+}
+
+.Aboutme1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 20px; 
+    font-weight: 400;
+    letter-spacing: 0.5px; 
+    line-height: 1.5; 
+    position: relative;
+    top: -350px;
+    color: #347928;
+}
+
+.Abtme{
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-style: normal;
+    font-size: 28px; 
+    font-weight: 400;
+    letter-spacing: 0.5px; 
+    line-height: 1.5; 
+    position: relative;
+    top: 10px;
+    color: #347928;
+
+    left: 275px;
+    top: -490px;
+    text-align: justify;
+}
+
+.Writing{
+    position: relative;
+    border-radius: 50%;
+    width: 250px;
+    right: -1630px;
+    top: -400px;
+}
+
+.snoopy{
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-style: normal;
+    font-size: 28px; 
+    font-weight: 400;
+    letter-spacing: 0.5px; 
+    line-height: 1.5; 
+    position: relative;
+    top: 10px;
+    color: #347928;
+
+    left: 670px;
+    top: -575px;
+}
+
+.Rec{
+    top: -100px;
+    bottom: -70px;
+    transform: rotate(180deg);
+    position: relative;
+}
+
+.chemistry{
+    position: relative;
+    border-radius: 50%;
+    width: 15%;
+    top: -600px;
+}
+
+.ChemWhy{
+    position: relative;
+    
+
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-style: normal;
+    font-size: 28px; 
+    font-weight: 400;
+    letter-spacing: 0.5px; 
+    line-height: 1.5; 
+    position: relative;
+    top: 10px;
+    color: #347928;
+
+    top: -800px;
+    left: 300px;
+}
+
+.thanks{
+    position: relative;
+    top: -500px;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #347928;
+}
+
+.done{
+    border-radius: 45%;
+    position: relative;
+    top: -250px;
+    width: 45%;
+    background-position:center ;
+}
+
+.thx{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 70px; 
+    font-weight: 400;
+    letter-spacing: 0.5px; 
+    line-height: 1.5; 
+    position: relative;
+    top: 10px;
+    color: #347928;
+    left: 1150px;
+}
